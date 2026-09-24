@@ -261,13 +261,13 @@ I'm continuing to build my professional presence around **GRC, cloud security, c
 
 ### LinkedIn
 
-[**Connect with me on LinkedIn →**](YOUR-LINKEDIN-URL)
+[**Connect with me on LinkedIn →**](https://www.linkedin.com/in/tommy-marshall-grc/)
 
 ### Portfolio
 
 [**Visit my cybersecurity portfolio →**](YOUR-PORTFOLIO-URL)
 
-*Portfolio link coming soon.*
+*Portfolio link coming soon!*
 
 ---
 
@@ -277,7 +277,7 @@ Thanks for taking the time to explore my work.
 
 If you're reviewing this portfolio as a recruiter, hiring manager, security professional, or fellow learner, I hope these projects provide a clear picture of how I'm approaching my transition into cybersecurity—and where I'm headed next.
 
-**Build secure systems. Build usable systems. Build systems people can actually follow.**
+**Building secure, usable systems, that people can actually follow.**
 
 ---
 
