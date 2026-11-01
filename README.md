@@ -1,286 +1,105 @@
-# Tommy Marshall | GRC & Cloud Security Portfolio
+# Tommy Marshall | Certified GRC Engineer Auditor (CGE-AUD)
 
-> **Governance. Risk. Compliance. Cloud Security. Human-Centered Security.**
+### I engineer governance designed for production—not just on paper.
 
-Welcome to my cybersecurity portfolio.
+**Certified GRC Engineer Auditor (CGE-AUD)** focused on translating security requirements into scalable, automation-ready controls, traceable evidence, and accountable workflows designed for real operational environments.
 
-I'm **Tommy Marshall**, an operations professional transitioning into **Governance, Risk & Compliance (GRC) and Cloud Security**, with a particular interest in the intersection of **people, processes, technology, and risk**.
+**Less compliance theater. More controls that work.**
 
-My career didn't begin in cybersecurity. It began in operations—managing logistics, coordinating people and processes, maintaining standards, documenting activity, handling exceptions, and making sure nothing fell through the cracks. That experience shaped how I approach security today:
-
-> **Good security isn't just about having the right controls. It's about designing controls and processes that organizations can actually execute consistently.**
-
-My transition into cybersecurity has expanded that operational perspective into **security governance, risk management, cloud security, compliance, incident response, and AI governance**.
-
-This repository documents that journey through practical, scenario-driven portfolio projects designed to demonstrate how I think about security—not simply what frameworks I can recite.
+[**Explore my live GRC portfolio →**](https://neofyte-grc.github.io/portfolio/) · [**Read all six Field Notes →**](https://neofyte-grc.github.io/portfolio/insights/) · [**Connect on LinkedIn →**](https://www.linkedin.com/in/tommy-marshall-grc/)
 
 ---
 
-## What This Portfolio Demonstrates
+## What I Build
 
-Rather than building a collection of disconnected "labs," these projects are designed as **security case studies** that connect:
+I approach governance, risk, and compliance as an engineering and operational-design problem: translate a business risk into a control objective, assign ownership, make the work repeatable, define what evidence should exist, and establish how to test and improve it.
 
-* Governance
-* Risk management
-* Compliance
-* Security controls
-* Cloud security
-* Operational processes
-* Human behavior
-* AI governance
-* Evidence and accountability
-* Security monitoring and measurement
+My work connects **risk assessment, IAM governance, security controls, cloud accountability, AI oversight, audit readiness, and evidence-driven remediation**. The long-term direction is **automated, scalable, code-driven GRC systems** that can withstand the demands of real operations—not processes that depend entirely on screenshots, spreadsheets, and meetings.
 
-The goal is to demonstrate the ability to move from:
+My cybersecurity portfolio consists of **four independently developed, scenario-based GRC programs**. These are reference designs and applied demonstrations, **not claims of having deployed production GRC automation or managed an employer's cybersecurity program**. My prior professional experience is in operations, logistics, and AI quality evaluation, where traceability, process ownership, documentation, exception handling, and measurable performance mattered every day.
 
-**Business Problem → Risk → Requirements → Controls → Implementation → Evidence → Monitoring → Improvement**
+**How I think about controls:**  
+`Business context → Risk → Requirement → Control owner → Workflow → Evidence → Testing → Remediation → Monitoring`
 
 ---
 
-# Portfolio Projects
+## Certification & Professional Development
 
-| #      | Project                                                                          | Focus                                    | What It Demonstrates                                                                                                | Status         |
-| ------ | -------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------- |
-| **01** | [Peachtree Logistics Group Security Risk & IAM Program](https://github.com/neofyte-grc/human-centered-security-program/tree/main)         | Security Culture • Human Risk • GRC      | Designing security controls around how people actually work in a real operational environment                       | ✅ **Complete** |
-| **02** | [AI Governance & Risk Program](https://github.com/neofyte-grc/ai-governance-and-risk-program)                 | AI Governance • Risk • Human Oversight   | Applying risk-management principles to AI-assisted business operations and designing governance around AI use       | ✅ **Complete** |
-| **03** | [From Framework to Workflow](https://github.com/neofyte-grc/from-framework-to-workflow)                        | GRC Engineering • Control Implementation | Translating security requirements and controls into executable business processes, ownership, evidence, and metrics | ✅ **Complete** |
-| **04** | [Cloud Security Operations Blueprint](https://github.com/neofyte-grc/cloud-security-operations-blueprint/tree/main) | Cloud Security • AWS • GRC               | Connecting cloud architecture, security controls, governance requirements, evidence, and operational responsibility | ✅ **Complete** |
+| Credential | Status |
+| --- | --- |
+| **Certified GRC Engineer – Auditor Specialty (CGE-AUD)** | **Certified — earned** |
+| AWS Certified Cloud Practitioner | Planned / in progress — not yet earned |
+| CompTIA Security+ | Planned / in progress — not yet earned |
 
-### Portfolio Progression
-
-These projects intentionally build on one another:
-
-**01 — PEOPLE**
-How do we design security around human behavior?
-
-↓
-
-**02 — AI**
-How do we govern technology that produces information or supports decisions?
-
-↓
-
-**03 — GRC ENGINEERING**
-How do we turn governance requirements into processes an organization can actually execute?
-
-↓
-
-**04 — CLOUD SECURITY**
-How do we implement those principles within a governed technical environment?
-
-This progression reflects the professional direction I am building toward:
-
-> **Human Behavior → Governance → Control Engineering → Technical Implementation**
+The CGE-AUD credential is **earned**, not pending. Other credentials listed above are professional-development goals, not completed certifications.
 
 ---
 
-## Project Methodology
+## Applied GRC Portfolio — Four Projects
 
-Each project is structured as a **portfolio case study**, rather than simply a collection of screenshots or configuration files.
+Each project below links directly to its public repository, with control artifacts, design decisions, and supporting documentation.
 
-Where applicable, projects will include:
+| Project | What it demonstrates |
+| --- | --- |
+| **01 · [Human-Centered Security & IAM Program](https://github.com/neofyte-grc/human-centered-security-program)** | A simulated logistics enterprise: enterprise risk, IAM/RBAC, access governance, security procedures, control testing, and measurable security outcomes. |
+| **02 · [AI Governance & Risk Program](https://github.com/neofyte-grc/ai-governance-and-risk-program)** | NIST AI RMF-informed AI risk assessment, human oversight, vendor considerations, risk registers, monitoring, and evidence expectations. |
+| **03 · [From Framework to Workflow](https://github.com/neofyte-grc/from-framework-to-workflow)** | Converting framework requirements into control narratives, accountable ownership, operating procedures, test steps, evidence, and remediation tracking. |
+| **04 · [Cloud Security Operations Blueprint](https://github.com/neofyte-grc/cloud-security-operations-blueprint)** | Cloud shared responsibility, IAM governance, control ownership, incident escalation, evidence strategy, and continuous monitoring design. |
 
-1. **Business Scenario**
-   The organization, environment, and business context.
-
-2. **Problem Statement**
-   The security, compliance, operational, or governance problem being addressed.
-
-3. **Stakeholders**
-   The people, teams, and business functions affected by the problem.
-
-4. **Risk Analysis**
-   Threats, vulnerabilities, potential impact, and risk considerations.
-
-5. **Framework & Requirements**
-   Applicable frameworks, standards, policies, and security requirements.
-
-6. **Security Controls**
-   Control objectives, implementation considerations, ownership, and mappings.
-
-7. **Solution Design**
-   The proposed governance, operational, or technical solution.
-
-8. **Artifacts**
-   Examples may include:
-
-   * Control matrices
-   * Risk registers
-   * Architecture diagrams
-   * Data-flow diagrams
-   * Security procedures
-   * Policies
-   * Workflows
-   * Evidence plans
-   * Access-control models
-   * Incident-response scenarios
-   * KPIs/KRIs
-   * Assessment documentation
-
-9. **Implementation**
-   How the proposed solution could be implemented in a real organization.
-
-10. **Measurement & Monitoring**
-    How effectiveness, compliance, and residual risk would be evaluated.
-
-11. **Reflection**
-    Lessons learned, tradeoffs, limitations, and what I would improve.
-
-The objective is to demonstrate **judgment and practical application**, not simply familiarity with cybersecurity terminology.
+**[Explore the portfolio website and featured work →](https://neofyte-grc.github.io/portfolio/#work)**
 
 ---
 
-# Technical & GRC Focus
+## Published Field Notes — Lessons From Building the Work
 
-My portfolio and ongoing development focus on the following areas:
+Six articles on the practical decisions behind the portfolio, moving from human-centered security to controls, AI governance, access reviews, audit readiness, and cloud accountability.
 
-### Governance, Risk & Compliance
+| # | Field Note |
+| --- | --- |
+| 01 | [Security Has to Survive Contact With Operations](https://neofyte-grc.github.io/portfolio/insights/security-has-to-survive-operations.html) |
+| 02 | [From Framework Language to Real Workflow](https://neofyte-grc.github.io/portfolio/insights/framework-language-to-real-workflow.html) |
+| 03 | [AI Governance Is an Operations Problem, Too](https://neofyte-grc.github.io/portfolio/insights/ai-governance-is-an-operations-problem.html) |
+| 04 | [Access Reviews Are Decisions, Not Checkboxes](https://neofyte-grc.github.io/portfolio/insights/access-reviews-are-decisions-not-checkboxes.html) |
+| 05 | [Audit Readiness Starts Before the Audit](https://neofyte-grc.github.io/portfolio/insights/audit-readiness-starts-before-the-audit.html) |
+| 06 | [Cloud Security Is a Shared Responsibility—But Accountability Still Needs an Owner](https://neofyte-grc.github.io/portfolio/insights/cloud-security-shared-responsibility.html) |
 
-* Governance, Risk & Compliance (GRC)
-* NIST Risk Management Framework (RMF)
-* NIST SP 800-53 Rev. 5
-* FedRAMP
-* Security control mapping
-* Control implementation
-* SSP development/support
-* POA&M management/support
-* Risk documentation
-* Evidence strategy
-* Compliance documentation
-* Audit & assessment support
-* Incident response coordination
-
-### Cloud & Security Engineering
-
-* AWS
-* Microsoft Azure
-* Identity & Access Management (IAM)
-* Least privilege
-* Logging & monitoring
-* Vulnerability management
-* Kubernetes
-* Terraform
-* DevSecOps
-* SAST / DAST
-* Tenable / Nessus
-* Burp Suite
-
-### Areas of Exploration
-
-* AI Governance
-* AI Risk Management
-* Human Oversight
-* Security Culture
-* Human Risk
-* GRC Engineering
-* Cloud Governance
-* Security Operations
-* Control Automation
-* Continuous Compliance
+**[View the complete Field Notes archive →](https://neofyte-grc.github.io/portfolio/insights/)**
 
 ---
 
-# Certifications
+## How I Approach GRC Engineering
 
-I am actively building my professional foundation through continued certification and technical development.
+**Design for execution.** A control needs more than a policy statement: it needs a clear trigger, an accountable owner, a workable procedure, and an escalation path.
 
-| Certification                        | Status             |
-| ------------------------------------ | ------------------ |
-| **CompTIA Security+**                | 🟡 **In Progress** |
-| **AWS Certified Cloud Practitioner** | 🟡 **In Progress** |
-| **CGE-AUD**                          | 🟡 **In Progress** |
+**Engineer for evidence.** Evidence should emerge from normal control operation, be traceable to decisions, and support meaningful assurance—not be reconstructed in a last-minute audit scramble.
 
-> **Note:** Certifications marked "In Progress" represent active professional development and are not yet completed credentials.
+**Test what actually happens.** Distinguish control design from operating effectiveness, document gaps, assign remediation, and verify corrective action.
 
----
+**Build toward automation.** Favor repeatable, measurable workflows and machine-readable control evidence where appropriate. Automation is a direction for continued development; the current portfolio documents designs and illustrative artifacts, not verified production deployments.
 
-# About Me
-
-My professional background spans **operations, logistics, transportation, AI quality evaluation, security governance, and cloud security**.
-
-That combination gives me a perspective I intentionally bring into cybersecurity.
-
-I've spent years working in environments where **process discipline, documentation, accountability, escalation, safety, and operational reliability** mattered. In one logistics leadership role, I helped achieve a **98% on-time delivery rate while reducing turnaround time by 15% and operating costs by 12%**.
-
-My experience evaluating AI-generated content also strengthened my interest in how organizations establish standards, evaluate technology outputs, identify issues, and build trust in systems.
-
-Today, I'm applying those same principles to cybersecurity.
-
-I'm particularly interested in the question:
-
-> **How do we build security programs that work in the real world—not just on paper?**
-
-That question sits at the center of this portfolio.
+**Account for people.** Good security must survive handoffs, competing priorities, exceptions, and changes to the environment.
 
 ---
 
-# How I Approach Security
+## Professional Background
 
-I believe effective cybersecurity sits at the intersection of:
+My operations and logistics leadership experience included coordinating time-sensitive workflows, resolving exceptions, maintaining traceable records, and improving performance. In one role, I sustained **98% on-time delivery** while helping reduce turnaround time **15%** and operating costs **12%**. My AI quality-evaluation work also strengthened my approach to standards, evidence-based judgments, and consistent review.
 
-**People + Process + Technology + Governance**
-
-Technology can provide the capability.
-
-Frameworks can provide the requirements.
-
-Controls can provide structure.
-
-But organizations still need people who understand **how those pieces fit together operationally**.
-
-My goal is to become the kind of security professional who can translate between those worlds—connecting business requirements, risk, governance, technical controls, evidence, and day-to-day operations.
+I bring that operational perspective into my self-directed GRC work without presenting those projects as prior cybersecurity employment.
 
 ---
 
-# Portfolio Philosophy
+## Find Me
 
-This portfolio is a **work in progress**.
-
-Projects will continue to evolve as I deepen my knowledge, complete certifications, and gain additional hands-on experience.
-
-I am intentionally documenting not only the final deliverables, but also the reasoning behind them:
-
-* What problem am I solving?
-* What risk am I addressing?
-* Why does a particular control make sense?
-* Who owns the control?
-* What evidence would demonstrate implementation?
-* Where could the process fail?
-* How could it be improved?
-* How would I measure whether the solution actually works?
-
-Because cybersecurity isn't simply about knowing **what** a control says.
-
-It's about understanding **why it exists, how it should work, who is responsible for it, and how you know it's working.**
+- **Portfolio:** [neofyte-grc.github.io/portfolio/](https://neofyte-grc.github.io/portfolio/)
+- **Projects:** [github.com/neofyte-grc](https://github.com/neofyte-grc)
+- **Publications:** [Field Notes archive](https://neofyte-grc.github.io/portfolio/insights/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tommy-marshall-grc/)
+- **Email:** [tommymarshallgrc@gmail.com](mailto:tommymarshallgrc@gmail.com)
 
 ---
 
-# Find Me
+**Tommy Marshall · Certified GRC Engineer Auditor (CGE-AUD)**  
+*Governance • Risk • Compliance • IAM • Cloud Security • AI Governance*
 
-I'm continuing to build my professional presence around **GRC, cloud security, cybersecurity operations, and human-centered security**.
-
-### LinkedIn
-
-[**Connect with me on LinkedIn →**](https://www.linkedin.com/in/tommy-marshall-grc/)
-
-### Portfolio
-
-[**Visit my cybersecurity portfolio →**](YOUR-PORTFOLIO-URL)
-
-*Portfolio link coming soon!*
-
----
-
-## Thanks for Visiting
-
-Thanks for taking the time to explore my work.
-
-If you're reviewing this portfolio as a recruiter, hiring manager, security professional, or fellow learner, I hope these projects provide a clear picture of how I'm approaching my transition into cybersecurity—and where I'm headed next.
-
-**Building secure, usable systems, that people can actually follow.**
-
----
-
-**Tommy Marshall**
-*GRC & Cloud Security*
-*Governance • Risk • Compliance • Cloud Security • Human-Centered Security*
+**Less compliance theater. More controls that work.**
